@@ -54,7 +54,9 @@ Permite o cadastro e listagem de usuários, utilizando arquitetura modular, API 
 
 \## 📂 Estrutura de pastas
 
-
+fullstack-app-react-node/
+├── backend/ → API Node.js + Express + MongoDB
+└── frontend/ → SPA em React + Vite
 
 
 
